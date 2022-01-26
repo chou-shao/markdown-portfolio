@@ -1,6 +1,5 @@
 # Here is a list of my favorite things:
-- Long walks on the beach
-- Disco dancing
-- Open source
-- Learning Git and GitHub
-- Test
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
